@@ -1,0 +1,18 @@
+{
+
+    "name": "nawfel/mud",
+    "autoload": {
+        "psr-4": {
+            "Nawfel\\MUD\\": "src/"
+        }
+    },
+    "authors" : [
+        {
+            "name": "Nawfel",
+            "email": "nawfel.dahri14@gmail.com"
+        }
+    ],
+    "require": {
+        "jugid/staurie": "^1.3"
+    }
+}
